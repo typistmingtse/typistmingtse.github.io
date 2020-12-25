@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo 部落格 Demo</title>
+        <link>http://typistmingtse.github.io/</link>
+        <description>Hugo 部落格 Demo</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Thu, 24 Dec 2020 21:59:52 &#43;0800</lastBuildDate>
+            <atom:link href="http://typistmingtse.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First Post Hello Hugo</title>
+    <link>http://typistmingtse.github.io/posts/first-file-hello-hugo/</link>
+    <pubDate>Thu, 24 Dec 2020 21:59:52 &#43;0800</pubDate>
+    <author></author>
+    <guid>http://typistmingtse.github.io/posts/first-file-hello-hugo/</guid>
+    <description><![CDATA[hugo blog demo]]></description>
+</item></channel>
+</rss>

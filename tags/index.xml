@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - tag - Hugo 部落格 Demo</title>
+        <link>http://typistmingtse.github.io/tags/</link>
+        <description>Tags - tag - Hugo 部落格 Demo</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="http://typistmingtse.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
