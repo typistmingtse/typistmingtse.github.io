@@ -1,27 +1,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - tag - Hugo 部落格 Demo</title>
+        <title>Tags - 標籤 - &gt; [Mt@Lab]</title>
         <link>http://typistmingtse.github.io/tags/</link>
-        <description>Tags - tag - Hugo 部落格 Demo</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</lastBuildDate><atom:link href="http://typistmingtse.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <description>Tags - 標籤 - &gt; [Mt@Lab]</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</lastBuildDate><atom:link href="http://typistmingtse.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>C sharp</title>
     <link>http://typistmingtse.github.io/tags/c-sharp/</link>
     <pubDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</pubDate>
-    <author></author>
+    <author>作者</author>
     <guid>http://typistmingtse.github.io/tags/c-sharp/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>hugo</title>
     <link>http://typistmingtse.github.io/tags/hugo/</link>
     <pubDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</pubDate>
-    <author></author>
+    <author>作者</author>
     <guid>http://typistmingtse.github.io/tags/hugo/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>程式設計</title>
     <link>http://typistmingtse.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
     <pubDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</pubDate>
-    <author></author>
+    <author>作者</author>
     <guid>http://typistmingtse.github.io/tags/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</guid>
     <description><![CDATA[]]></description>
 </item></channel>

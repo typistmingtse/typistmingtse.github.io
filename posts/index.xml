@@ -1,20 +1,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title> - Hugo 部落格 Demo</title>
+        <title>所有文章 - &gt; [Mt@Lab]</title>
         <link>http://typistmingtse.github.io/posts/</link>
-        <description> | Hugo 部落格 Demo</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</lastBuildDate><atom:link href="http://typistmingtse.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>所有文章 | &gt; [Mt@Lab]</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</lastBuildDate><atom:link href="http://typistmingtse.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>SecondPost</title>
     <link>http://typistmingtse.github.io/posts/secondpost/</link>
     <pubDate>Sat, 26 Dec 2020 18:23:12 &#43;0800</pubDate>
-    <author></author>
+    <author>作者</author>
     <guid>http://typistmingtse.github.io/posts/secondpost/</guid>
     <description><![CDATA[測試文章內容， 第一行 第二行 第三行 用二個空格換行 有換行嗎? 來段C#程式碼: Console.WriteLine(&#34;hello world&#34;); 放上圖片有二種方法 第一種方式是放在部落格專案的static資料夾]]></description>
 </item><item>
     <title>First Post Hello Hugo</title>
     <link>http://typistmingtse.github.io/posts/first-file-hello-hugo/</link>
     <pubDate>Thu, 24 Dec 2020 21:59:52 &#43;0800</pubDate>
-    <author></author>
+    <author>作者</author>
     <guid>http://typistmingtse.github.io/posts/first-file-hello-hugo/</guid>
     <description><![CDATA[hugo blog demo]]></description>
 </item></channel>
